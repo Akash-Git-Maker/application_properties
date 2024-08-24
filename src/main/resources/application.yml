@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: application_properties
-    
-app:
-  message:
-    welcomeMsg: Welcome to Akash IT
-    greetMsg: Hii, Good Morning
