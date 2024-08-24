@@ -1,3 +1,8 @@
 spring:
   application:
-    name: 33.3_SBMS_Application_properties
+    name: application_properties
+    
+app:
+  message:
+    welcomeMsg: Welcome to Akash IT
+    greetMsg: Hii, Good Morning
